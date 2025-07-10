@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+*{margin: 0;padding: 0;}
+
+header{
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    background-color: #34def4;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+header h1{
+    color: #fff;
+    font-size: 60px;
+    cursor: pointer;
+}
